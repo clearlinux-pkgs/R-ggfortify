@@ -5,7 +5,7 @@
 #
 Name     : R-ggfortify
 Version  : 0.4.16
-Release  : 17
+Release  : 18
 URL      : https://cran.r-project.org/src/contrib/ggfortify_0.4.16.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/ggfortify_0.4.16.tar.gz
 Summary  : Data Visualization Tools for Statistical Analysis Results
